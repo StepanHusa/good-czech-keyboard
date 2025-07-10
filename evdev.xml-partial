@@ -1,0 +1,19 @@
+    <layout>
+      <configItem>
+        <name>customcz</name>
+        <shortDescription>customcz</shortDescription>
+        <description>Czech programmer (custom SH)</description>
+        <languageList>
+          <iso639Id>ces</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList>
+        <variant>
+          <configItem>
+            <name>fast</name>
+            <shortDescription>customcz-fast</shortDescription>
+            <description>Top row Czech symbols without AltGr</description>
+          </configItem>
+        </variant>
+      </variantList>
+    </layout>
