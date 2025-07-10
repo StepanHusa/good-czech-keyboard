@@ -1,2 +1,2 @@
 # good-czech-keyboard
-A layout (written in both linux xkb and in windows mskcl) that fits most czech programmers needs, as it has +ěčšřžýíé= on the top row and the symbols with shift. With the necessity to write numbers on the numeric keyboard.
+A layout (written in both linux xkb and in windows mskcl) that fits most czech programmers needs, as it has +ěčšřžýíé= on the top row and the symbols with shift. With the necessity to write numbers on the numeric keyboard. The rest of symbols, like brackets and colons, period, ?>./ in the typical (us) layout. 'z' is of course close to ctrl, for fast ctrl+z. It can by of course customized further.
